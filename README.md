@@ -26,6 +26,16 @@ This repository is designed as a pre-launch and early-demand resource hub for cr
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
+## Related Cliprise GitHub resources
+
+- [Awesome HappyHorse AI video prompts](https://github.com/cliprise/awesome-happyhorse-ai-video-prompts) - video-specific prompt paths next to HappyHorse-style workflows.
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+- [Awesome image-to-video prompts](https://github.com/cliprise/awesome-image-to-video-prompts) - still-to-motion workflows, camera language, and source-frame discipline.
+- [Awesome AI video ads prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts) - paid social and performance video ad prompt structures.
+- [Awesome Seedance 2 prompts](https://github.com/cliprise/awesome-seedance-2-prompts) - ByteDance Seedance 2.0 style multimodal video prompts and notes.
+<!-- CLIPRISE_LINKING_END -->
+
 ## What this repository is
 
 This repository is a practical prompt and workflow library for people searching for:
